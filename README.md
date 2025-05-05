@@ -1,8 +1,8 @@
-# rate-it-app
+## rate-it-app
 
 Rate It is an Algerian-based platform inspired by Yelp, where users can rate and review various establishments including companies, places, restaurants, and more. This project aims to provide a localized experience for Algerian users to share their experiences and discover new places.
 
-Features
+## Features
 📝 User registration and authentication
 
 ⭐ Rating system for various establishments
@@ -19,8 +19,8 @@ Features
 
 💬 Comment and discussion threads
 
-Technologies Used
-Frontend
+## Technologies Used
+## Frontend
 ⚡ React with Vite - Fast frontend development
 
 🎨 Tailwind CSS - Utility-first CSS framework
@@ -29,7 +29,7 @@ Frontend
 
 🚀 Axios - HTTP client for API calls
 
-Backend
+## Backend
 🐍 Flask - Python web framework
 
 🗄️ SQLAlchemy - ORM for database operations
